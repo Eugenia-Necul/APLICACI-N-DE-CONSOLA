@@ -20,5 +20,5 @@
 ## Herramientas utilizadas 
 
 - HTML5
-- Main.js
-- Git Hub
+- JavaScript
+- Git 
